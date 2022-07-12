@@ -33,3 +33,6 @@ if ($text == "") {
 // Echo the response back to the API
 header('Content-type: text/plain');
 echo $response;
+
+//Works fine when configured in the simulator environment in africaTalking site.
+?>
