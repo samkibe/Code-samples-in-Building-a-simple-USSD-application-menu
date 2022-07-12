@@ -2,7 +2,7 @@
     $text = $_GET['text'];
     $rm = new Remove($text);
 
-    //echo $rm->remove99();
+   // echo $rm->remove99();
     //echo $rm->remove98();
 
     echo $rm->remove98($rm->remove99());
@@ -19,7 +19,7 @@
          $this->str = $s;
 
        }
-       
+       //1st Function
        public function remove99(){
         $explodeStr = explode("*",$this->str);
         while(array_search("99",$explodeStr) != false){
@@ -30,7 +30,7 @@
         return join("*",$explodeStr);
 
        }
-
+       //2nd Function
        public function remove98(){
         $explodeStr = explode("*",$this->str);
         while(array_search("98",$explodeStr) != false){
