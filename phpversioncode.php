@@ -34,5 +34,5 @@ if ($text == "") {
 header('Content-type: text/plain');
 echo $response;
 
-//Works fine when configured in the simulator environment in africaTalking site.
+//Works fine when configured on the simulator environment on africa's Talking site.
 ?>
