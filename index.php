@@ -1,8 +1,12 @@
 <?php
-  $name = $_GET['name'];
-  $age = $_GET['age'];
+  $name = $_GET['My Name'];
+  $descrption = $_GET['Samuel Kibe,👋 Hi, I am kibe, a researcher, an aspiring Data scientist and complement Information security.
 
-  echo $name . " is " . $age;
+  👀 I’m interested in Data Science and Cyber Security'];
+  
+
+  echo $name . " is " . $descrption;
+
+  //path  || localhost/testpostman/Snppets-in-Building-and-Testing-USSD-and-SMS-Applications/ ||
 
 ?>
-// path  || localhost/testpostman/Snppets-in-Building-and-Testing-USSD-and-SMS-Applications/ ||
