@@ -1,1 +1,1 @@
-# Snppets-in-Building-and-Testing-USSD-and-SMS-Applications
+# Code Snippets-in-Building-and-Testing-USSD-and-SMS-Applications
