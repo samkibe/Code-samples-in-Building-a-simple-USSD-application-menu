@@ -1,5 +1,5 @@
 <?php
-    $text = $_GET['text'];
+    $text = $_POST['text'];
     $rm = new Remove($text);
 
    // echo $rm->remove99();
