@@ -40,7 +40,8 @@
         }
         return join("*",$explodeStr);
 
-
+// We included this file to help us learn the simple logic behind ussd algorithmn,
+  // --- when a user chooses different options on the menu and how the system works in the backgroung
 
        }
     }
