@@ -7,4 +7,12 @@ To test the code you can fire a simulator on Africa's Talking website. (Check th
 or
 You can do a manual code test on an installed Postman on your machine or a postman agent to help run postman on your browser, after ofcourse installing and starting apache on xampp.
 
+Create a "Your-folder" on Xampp-Htdocs-your_folder- then open it on your preferred IED. THEN Create a php file - example.php. now you are good to go!
+
+//Path to test on Postman:
+as follows
+
+localhost/'your_folder'/example.php
+
+
 "Feel free to leave a comment*
