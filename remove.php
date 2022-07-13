@@ -10,9 +10,9 @@
     
     class Remove{
        var $str;
-       //1*3*5*98*8*1*12*98 => 1*3*8*1  
+       //Used in the 1st Function 1*3*5*98*8*1*12*98     => output => 1*3*8*1  
 
-       //1*3*5*99*8*3 =>8*3
+       //Usedin the 2nd Function 1*3*5*99*8*3 =>    output => 8*3
        function __construct($s)
        {
         
